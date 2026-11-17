@@ -1,0 +1,35 @@
+{
+  "eventos": [
+    {
+      "id": "muertos",
+      "nombre": "Noche de Muertos",
+      "nombre_en": "Night of the Dead",
+      "texto": "Junta flores de cempasúchil en las pistas",
+      "texto_en": "Collect marigold flowers on the tracks",
+      "desde": "10-25",
+      "hasta": "11-05",
+      "pieza": "flor",
+      "musica": "muertos",
+      "premios": [
+        {"meta": 15, "estela": "estela_cempasuchil"},
+        {"meta": 40, "estela": "estela_papel_picado"},
+        {"meta": 70, "monedas": 200}
+      ]
+    },
+    {
+      "id": "navidad",
+      "nombre": "Navidad Gatuna",
+      "nombre_en": "Kitty Christmas",
+      "texto": "Junta regalos en las pistas",
+      "texto_en": "Collect presents on the tracks",
+      "desde": "12-15",
+      "hasta": "01-06",
+      "pieza": "regalo",
+      "premios": [
+        {"meta": 15, "estela": "estela_navidad"},
+        {"meta": 40, "estela": "estela_nieve"},
+        {"meta": 70, "monedas": 200}
+      ]
+    }
+  ]
+}
