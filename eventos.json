@@ -67,6 +67,16 @@
           "meta": 110,
           "monedas": 60,
           "acc": "astas_naranjas"
+        },
+        {
+          "meta": 130,
+          "monedas": 60,
+          "acc": "pet_pinguino"
+        },
+        {
+          "meta": 150,
+          "monedas": 80,
+          "acc": "pet_muneco_nieve"
         }
       ]
     }
