@@ -11,9 +11,18 @@
       "pieza": "flor",
       "musica": "muertos",
       "premios": [
-        {"meta": 15, "estela": "estela_cempasuchil"},
-        {"meta": 40, "estela": "estela_papel_picado"},
-        {"meta": 70, "monedas": 200}
+        {
+          "meta": 15,
+          "estela": "estela_cempasuchil"
+        },
+        {
+          "meta": 40,
+          "estela": "estela_papel_picado"
+        },
+        {
+          "meta": 70,
+          "monedas": 200
+        }
       ]
     },
     {
@@ -26,9 +35,39 @@
       "hasta": "01-06",
       "pieza": "regalo",
       "premios": [
-        {"meta": 15, "estela": "estela_navidad"},
-        {"meta": 40, "estela": "estela_nieve"},
-        {"meta": 70, "monedas": 200}
+        {
+          "meta": 15,
+          "estela": "estela_navidad"
+        },
+        {
+          "meta": 25,
+          "monedas": 30,
+          "acc": "navidad"
+        },
+        {
+          "meta": 40,
+          "estela": "estela_nieve"
+        },
+        {
+          "meta": 55,
+          "monedas": 40,
+          "acc": "duende"
+        },
+        {
+          "meta": 70,
+          "monedas": 200,
+          "acc": "astas_rojas"
+        },
+        {
+          "meta": 90,
+          "monedas": 50,
+          "acc": "astas_verdes"
+        },
+        {
+          "meta": 110,
+          "monedas": 60,
+          "acc": "astas_naranjas"
+        }
       ]
     }
   ]
